@@ -33,7 +33,7 @@ db.connect()
   .catch();
 
 const store = new MongoDBStore({
-  uri: "mongodb+srv://hung100097:kXM8RRd6jWFKb7ss@hungdeptrai.nlwmnp2.mongodb.net/webraucu?retryWrites=true&w=majority&appName=HungDepTrai",
+  uri: "mongodb+srv://an100277:AeeReISLciRp5Aqf@binhan.awftk.mongodb.net/flutterDBBBB?retryWrites=true&w=majority&appName=Cluster0",
   collection: "sessions",
 });
 
